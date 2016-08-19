@@ -10,30 +10,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717613af-6de3-4c80-8b08-1ac47a5ec07f" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\debug\drawable-hdpi\c1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\debug\drawable-hdpi\d1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\debug\drawable-hdpi\h13.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\debug\drawable-hdpi\s1.png" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\drawable-hdpi\c1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/c14.png" />
-      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\drawable-hdpi\d1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/d14.png" />
-      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\drawable-hdpi\h13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/h14.png" />
-      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\drawable-hdpi\s1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/s14.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/authorwjf/deal/Cards.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/authorwjf/deal/Cards.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/authorwjf/redorblack/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/authorwjf/redorblack/R$drawable.class" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\Cards.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\HomePage$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\HomePage$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\HomePage$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\HomePage$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\HomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\Sounds.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\deal\Transitions.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\debug\com\authorwjf\redorblack\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\debug\drawable-hdpi\h1.png" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\generated\source\buildConfig\androidTest\debug\com\authorwjf\redorblack\test\BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/delm959/redorblack/test/BuildConfig.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\generated\source\buildConfig\debug\com\authorwjf\redorblack\BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/delm959/redorblack/BuildConfig.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\generated\source\r\debug\com\authorwjf\redorblack\R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/delm959/redorblack/R.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\java\com\authorwjf\deal\Cards.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\java\com\authorwjf\deal\HomePage.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/HomePage.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\java\com\authorwjf\deal\MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\java\com\authorwjf\deal\Sounds.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Sounds.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\java\com\authorwjf\deal\Transitions.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Transitions.java" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\drawable-hdpi\h1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/h14.png" />
+      <change type="MOVED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\drawable-hdpi\h14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/h13.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/h14.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/h14.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/authorwjf/redorblack/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/authorwjf/redorblack/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RedOrBlack.iws" />
@@ -63,11 +94,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Cards.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java">
+      <file leaf-file-name="Cards.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5743243">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -84,27 +115,27 @@
         </entry>
       </file>
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/MainActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-128.3793">
-              <caret line="279" column="63" selection-start-line="279" selection-start-column="63" selection-end-line="279" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.45293072">
+              <caret line="230" column="0" selection-start-line="230" selection-start-column="0" selection-end-line="231" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Sounds.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Sounds.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Sounds.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
@@ -114,7 +145,7 @@
         </entry>
       </file>
       <file leaf-file-name="Transitions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Transitions.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Transitions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -1553,6 +1584,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/delm959/deal/Cards.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1588,7 +1622,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -1750,11 +1784,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedOrBlack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedOrBlack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="deal" />
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="delm959" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redorblack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1984,6 +2056,7 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1994,7 +2067,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2013,7 +2085,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2057,7 +2129,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Sounds.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Sounds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
@@ -2065,31 +2137,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Transitions.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Transitions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/h1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-128.3793">
-          <caret line="279" column="63" selection-start-line="279" selection-start-column="63" selection-end-line="279" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -2107,10 +2158,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5743243">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/h13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/h14.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45293072">
+          <caret line="230" column="0" selection-start-line="230" selection-start-column="0" selection-end-line="231" selection-end-column="31" />
           <folding />
         </state>
       </provider>
