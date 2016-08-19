@@ -331,16 +331,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 			}
 				
 		}
-		//else if(button2.getText().equals("HIGHER")){
-		//	if(current == previous){
-		//		inOrOut();
-		//	}else{
-		//		youLose();
-		//	}
-			
-		//}
-		
-		
 }
 
 	
@@ -375,22 +365,15 @@ public class MainActivity extends Activity implements  AnimationListener {
 		if (animation == animation1) {
 					
 			cardImageView.setImageResource(resID);
-			//cardImageView.clearAnimation();
 			cardImageView.setAnimation(animation2);
 			cardImageView.startAnimation(animation2);
 
 			if(Sounds.soundOn) sounds.playSound(soundToPlay);
 			
-			//System.out.println("123456789");
-			
 		} else {
-			//System.out.println("123456");
-			//if(!restart)
-				changeText();
-			
-			//Cards.isBackOfCardShowing=!Cards.isBackOfCardShowing;
+			changeText();
+
 			button1.setEnabled(true);
-			//if(!stage3)
 			button2.setEnabled(true);
 			button3.setEnabled(true);
 
@@ -405,9 +388,7 @@ public class MainActivity extends Activity implements  AnimationListener {
 			if(!restart){
 			if(toast == null || toast.getView().getWindowVisibility() != View.VISIBLE){
 				if(!doub){
-					
 					toast = Toast.makeText(this, "DRINK!!", Toast.LENGTH_SHORT);
-					
 				}
 				else{
 					toast = Toast.makeText(this, "DRINK HEAPS!!", Toast.LENGTH_SHORT);
@@ -417,8 +398,7 @@ public class MainActivity extends Activity implements  AnimationListener {
 			toast.show();
 			doub = false;
 			}
-			
-			
+
 			LinearLayout linearLayout = (LinearLayout) toast.getView();
 			TextView messageTextView = (TextView) linearLayout.getChildAt(0);
 			messageTextView.setTextSize(25);
@@ -426,8 +406,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 			
 			button1.setText("RED");
 			button2.setText("BLACK");
-			
-			
 
 			button3.setClickable(false);
 			button3.setPressed(true);
@@ -436,9 +414,7 @@ public class MainActivity extends Activity implements  AnimationListener {
 		else if(stage3){
 			
 			if(!doub){
-				
 				toast = Toast.makeText(this, "YOU WIN!", Toast.LENGTH_LONG);
-				
 			}
 			else{
 				toast = Toast.makeText(this, "YOU WIN! DEALER DRINK!", Toast.LENGTH_LONG);
@@ -468,15 +444,12 @@ public class MainActivity extends Activity implements  AnimationListener {
 				messageTextView.setTextSize(25);
 				doub = false;
 			}
-			
 
 			button1.setText("IN");
 			button2.setText("OUT");
 			button3.setClickable(true);
 			button3.setPressed(false);
 		}
-			
-		
 		else if(stage1){
 			button1.setText("LOWER");
 			button2.setText("HIGHER");
@@ -493,7 +466,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 		
 		resID = getResources().getIdentifier("card_back3", "drawable", getPackageName());
 		cardImageView.setImageResource(resID);
-		//cardImageView.clearAnimation();
 		cardImageView.setAnimation(animation2);
 		cardImageView.startAnimation(animation2);
 		Cards.deckSize = 52;
@@ -507,7 +479,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 		button2.setVisibility(View.VISIBLE);
 	    button1.setText("RED");
 		button2.setText("BLACK");
-		//button2.setClickable(true);
 		
 		stage1 = false;
 		stage2 = false;
@@ -515,12 +486,7 @@ public class MainActivity extends Activity implements  AnimationListener {
 		
 		
 	}
-	
-	
-	
-	
-	
-	
+
 
 	
 	//-------------Instructions-------------------------------------------------------------------------
@@ -666,9 +632,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 		 
 
 	}
-	
-
-
 
 
 	@Override

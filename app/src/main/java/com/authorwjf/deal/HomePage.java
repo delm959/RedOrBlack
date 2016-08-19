@@ -41,14 +41,12 @@ public class HomePage extends Activity {
 	blinkAnimation1.setRepeatCount(1000); // Repeat animation infinitely
 	blinkAnimation1.setRepeatMode(Animation.REVERSE);
 	
-	
 	AlphaAnimation  blinkAnimation2= new AlphaAnimation(0, 1); // Change alpha from fully visible to invisible
 	blinkAnimation2.setDuration(2500);
 	blinkAnimation2.setStartOffset(1200);
 	blinkAnimation2.setInterpolator(new LinearInterpolator()); // do not alter animation rate
 	blinkAnimation2.setRepeatCount(1000); // Repeat animation infinitely
 	blinkAnimation2.setRepeatMode(Animation.REVERSE);
-	 
 
 	homePage1.startAnimation(blinkAnimation1);
 	homePage2.startAnimation(blinkAnimation2);
@@ -62,8 +60,6 @@ public class HomePage extends Activity {
 			startActivity(i);
 			overridePendingTransition(R.anim.slide_in, R.anim.slide_out);
 			finish();
-			
-		
 		}
 	});
 		
@@ -76,8 +72,6 @@ public class HomePage extends Activity {
 				startActivity(i);
 				overridePendingTransition(R.anim.slide_in, R.anim.slide_out);
 				finish();
-				
-			
 			}
 		});
 	
