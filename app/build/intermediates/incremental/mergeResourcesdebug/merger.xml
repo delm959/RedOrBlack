@@ -17,9 +17,9 @@
 	</string><string name="instructions3">
 	    Guess whether the next card is HIGHER or LOWER than the current card. 2 is the lowest, Ace is the Highest.\n
 		If correct you will move to Stage 3 otherwise you know what to do…\n
-	</string><string name="instructionsheader">INSTRUCTIONS</string><string name="instructions5">
+	</string><string name="instructionsheader">INSTRUCTIONS</string><string name="app_name">Red or Black</string><string name="instructions5">
 	    The deck automatically reshuffles when all cards have been used so you can continue getting steamed!. \n
-	</string><string name="app_name">Red or Black</string><string name="background">background</string><string name="cards_left">Cards\nleft</string><string name="button2">BLACK</string><string name="button3">DOUBLE</string><string name="sound">sound</string><string name="button1">RED</string></file><file path="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\values\styles.xml" qualifiers=""><style name="Animation">
+	</string><string name="background">background</string><string name="cards_left">Cards\nleft</string><string name="button2">BLACK</string><string name="sound">sound</string><string name="button3">DOUBLE</string><string name="button1">RED</string></file><file path="C:\Users\Warrick\Documents\RedOrBlack\app\src\main\res\values\styles.xml" qualifiers=""><style name="Animation">
     <item name="android:windowEnterAnimation">@anim/fade_in</item>
     <item name="android:windowExitAnimation">@anim/fade_out</item>
 </style><style name="AppBaseTheme" parent="android:Theme.Light">
