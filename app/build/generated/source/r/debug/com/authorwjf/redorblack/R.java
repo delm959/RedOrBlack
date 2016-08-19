@@ -27,11 +27,11 @@ public final class R {
     }
     public static final class drawable {
         public static final int bg2=0x7f020000;
-        public static final int c10=0x7f020001;
-        public static final int c11=0x7f020002;
-        public static final int c12=0x7f020003;
-        public static final int c13=0x7f020004;
-        public static final int c14=0x7f020005;
+        public static final int c1=0x7f020001;
+        public static final int c10=0x7f020002;
+        public static final int c11=0x7f020003;
+        public static final int c12=0x7f020004;
+        public static final int c13=0x7f020005;
         public static final int c2=0x7f020006;
         public static final int c3=0x7f020007;
         public static final int c4=0x7f020008;
@@ -41,11 +41,11 @@ public final class R {
         public static final int c8=0x7f02000c;
         public static final int c9=0x7f02000d;
         public static final int card_back3=0x7f02000e;
-        public static final int d10=0x7f02000f;
-        public static final int d11=0x7f020010;
-        public static final int d12=0x7f020011;
-        public static final int d13=0x7f020012;
-        public static final int d14=0x7f020013;
+        public static final int d1=0x7f02000f;
+        public static final int d10=0x7f020010;
+        public static final int d11=0x7f020011;
+        public static final int d12=0x7f020012;
+        public static final int d13=0x7f020013;
         public static final int d2=0x7f020014;
         public static final int d3=0x7f020015;
         public static final int d4=0x7f020016;
@@ -54,11 +54,11 @@ public final class R {
         public static final int d7=0x7f020019;
         public static final int d8=0x7f02001a;
         public static final int d9=0x7f02001b;
-        public static final int h10=0x7f02001c;
-        public static final int h11=0x7f02001d;
-        public static final int h12=0x7f02001e;
-        public static final int h13=0x7f02001f;
-        public static final int h14=0x7f020020;
+        public static final int h1=0x7f02001c;
+        public static final int h10=0x7f02001d;
+        public static final int h11=0x7f02001e;
+        public static final int h12=0x7f02001f;
+        public static final int h13=0x7f020020;
         public static final int h2=0x7f020021;
         public static final int h3=0x7f020022;
         public static final int h4=0x7f020023;
@@ -74,11 +74,11 @@ public final class R {
         public static final int instructionsbg2=0x7f02002d;
         public static final int instructionsoff=0x7f02002e;
         public static final int mybutton=0x7f02002f;
-        public static final int s10=0x7f020030;
-        public static final int s11=0x7f020031;
-        public static final int s12=0x7f020032;
-        public static final int s13=0x7f020033;
-        public static final int s14=0x7f020034;
+        public static final int s1=0x7f020030;
+        public static final int s10=0x7f020031;
+        public static final int s11=0x7f020032;
+        public static final int s12=0x7f020033;
+        public static final int s13=0x7f020034;
         public static final int s2=0x7f020035;
         public static final int s3=0x7f020036;
         public static final int s4=0x7f020037;

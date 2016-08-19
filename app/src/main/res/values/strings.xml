@@ -23,26 +23,27 @@
 	<string name="instructions">
 	    A 2 player drinking game where one person is the dealer and the other is the drinker.\n
 	    The object of the game is complete all 3 stages without messing up, simple stuff.\n 
-	    If at any stage you muck up you drink and start from the beginning (A swig of beer will do or take a shot if you are insane!).\n 
+	    If at any stage you muck up you drink and start from the beginning (A swig of beer will do or take a shot if you\'re game!).\n
 	</string>
 	<string name="instructions2">
 	    Simply guess RED or BLACK, if correct you will move to Stage 2. If not then drink!\n
 	</string>
 	<string name="instructions3">
-	    Guess whether the next card is HIGHER or LOWER than the current card. 2 is the lowest, Ace is the Highest.\n
-	     If correct you will move to Stage 3 otherwise you know what to do...\n
+	    Guess whether the next card is HIGHER or LOWER than the current card. Ace is the lowest, King is the Highest.\n
+		If correct you will move to Stage 3 otherwise you know what to do…\n
 	</string>
 	<string name="instructions4">
 	    The last stage requires you to decide if the next card is inside or outside the current card and the previous card.\n
-	    E.g Current - 5, Previous - Jack.\n IN would be 6,7,8,9,10. OUT would be 2,3,4,Q,K,A.\n
+	    E.g Current - 5, Previous - Jack.\n IN would be 6,7,8,9,10.\n
+		OUT would be A,2,3,4,Q,K.\n
 	    You are allowed to call a DOUBLE at this point. A DOUBLE occurs when the next card is the same as the current card or the previous card. E.g Current - 5, Previous - Jack, next card out could be a 5 or Jack.\n
-	    Calling DOUBLE is a risky play but worth the glory when you pull it off. \n
-	    If you fail... drink heaps!, otherwise the dealer must consume half their vessel! Get uuup!!! \n
-	     If you guessed correctly you WIN! otherwise close but no cigar, start again.\n
-	     If you win you become the dealer and someone else becomes the drinker.\n
+	    Calling DOUBLE is a risky play but worth the glory when you pull it off.\n
+	    If you fail… drink heaps!, otherwise if you\'re lucky enough to get a DOUBLE the dealer must consume half their vessel!\n
+		If you guessed correctly you WIN! otherwise close but no cigar, start again.\n
+		If you win you become the dealer and someone else becomes the drinker.\n
 	</string>
 	<string name="instructions5">
-	    The deck automatically reshuffles when all cards have been used so you can continue to get farked up!. \n
+	    The deck automatically reshuffles when all cards have been used so you can continue getting steamed!. \n
 	</string>
 	
 </resources>

@@ -244,9 +244,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 			Cards.deckSize--;
 				
 			resID = getResources().getIdentifier(randCard, "drawable", getPackageName());
-			
-				
-			
 			counter.setText(String.valueOf(Cards.deckSize));
 				
 			if(stage1){
@@ -279,63 +276,31 @@ public class MainActivity extends Activity implements  AnimationListener {
 	
 	public void redButton(){
 
-			if(button1.getText().equals("IN") && current < max && current > min){
-					
-				youWin();
-			}
-				
-			else if(button1.getText().equals("LOWER") && current < previous){
-					
-				inOrOut();
-			}
-				
-			else if(randCard.contains("h") && button1.getText().equals("RED") || randCard.contains("d") && button1.getText().equals("RED")){
-					
-				higherOrLower();
-					
-			}else{
-					
-				youLose();
-			}
+			if(button1.getText().equals("IN") && current < max && current > min) youWin();
+			else if(button1.getText().equals("LOWER") && current < previous) inOrOut();
+			else if(randCard.contains("h") && button1.getText().equals("RED") || randCard.contains("d") && button1.getText().equals("RED")) higherOrLower();
+			else youLose();
 	}
 	
 	public void blackButton(){
 
-	
-			if(button2.getText().equals("OUT") && current > max || button2.getText().equals("OUT") && current < min){
-					
-				youWin();	
-			}
-			else if(button2.getText().equals("HIGHER") && current > previous){
-				
-				inOrOut();
-			}
-			else if(randCard.contains("c") && button2.getText().equals("BLACK") || randCard.contains("s") && button2.getText().equals("BLACK")){
-					
-				higherOrLower();
-			}
-			else{
-				
-				youLose();	
-			}
+			if(button2.getText().equals("OUT") && current > max || button2.getText().equals("OUT") && current < min) youWin();
+			else if(button2.getText().equals("HIGHER") && current > previous) inOrOut();
+			else if(randCard.contains("c") && button2.getText().equals("BLACK") || randCard.contains("s") && button2.getText().equals("BLACK")) higherOrLower();
+			else youLose();
 	}
 	
 	public void doubleButton(){
 
 		doub = true;
 		if(button2.getText().equals("OUT")){
-			if(current == previous || current == previous2){
-				youWin();
-			}else{
-				youLose();
-			}
-				
+			if(current == previous || current == previous2) youWin();
+			else youLose();
 		}
 }
 
 	
 	public void youWin(){
-
 		soundToPlay = 0;
 		stage3 = true;
 	}
@@ -347,7 +312,6 @@ public class MainActivity extends Activity implements  AnimationListener {
 	
 	public void higherOrLower(){
 		soundToPlay = 3;
-		
 		stage1 = true;
 	}
 
