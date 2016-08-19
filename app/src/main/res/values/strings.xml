@@ -29,13 +29,13 @@
 	    Simply guess RED or BLACK, if correct you will move to Stage 2. If not then drink!\n
 	</string>
 	<string name="instructions3">
-	    Guess whether the next card is HIGHER or LOWER than the current card. Ace is the lowest, King is the Highest.\n
+	    Guess whether the next card is HIGHER or LOWER than the current card. 2 is the lowest, Ace is the Highest.\n
 		If correct you will move to Stage 3 otherwise you know what to do…\n
 	</string>
 	<string name="instructions4">
 	    The last stage requires you to decide if the next card is inside or outside the current card and the previous card.\n
 	    E.g Current - 5, Previous - Jack.\n IN would be 6,7,8,9,10.\n
-		OUT would be A,2,3,4,Q,K.\n
+		OUT would be 2,3,4,Q,K,A.\n
 	    You are allowed to call a DOUBLE at this point. A DOUBLE occurs when the next card is the same as the current card or the previous card. E.g Current - 5, Previous - Jack, next card out could be a 5 or Jack.\n
 	    Calling DOUBLE is a risky play but worth the glory when you pull it off.\n
 	    If you fail… drink heaps!, otherwise if you\'re lucky enough to get a DOUBLE the dealer must consume half their vessel!\n

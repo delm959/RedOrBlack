@@ -19,7 +19,7 @@ public class Cards {
 		
 		cards = new ArrayList<String>();
 		
-		for(int i = 1; i <= suitSize; i++) {
+		for(int i = 2; i <= suitSize; i++) {
 				cards.add("c"+i);
 				cards.add("d"+i);
 				cards.add("h"+i);
