@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Red or Black</string>
+    <string name="action_settings">Settings</string>
+    <string name="card">card</string>
+    <string name="card1">card1</string>
+    <string name="card2">card2</string>
+    <string name="counter">counter</string>
+    <string name="button1">RED</string>
+    <string name="button2">BLACK</string>
+    <string name="button3">DOUBLE</string>
+	<string name="background">background</string>
+	<string name="sound">sound</string>
+	<string name="cards_left">Cards\nleft</string>
+	
+	<string name="instructionsheader">INSTRUCTIONS</string>
+	<string name="instructionsheader2">Stage 1 - RED or BLACK</string>
+	<string name="instructionsheader3">Stage 2 - HIGHER or LOWER</string>
+	<string name="instructionsheader4">Stage 3 - IN or OUT</string>
+	<string name="instructionsheader5">Extras</string>
+	
+	<string name="instructions">
+	    A 2 player drinking game where one person is the dealer and the other is the drinker.\n
+	    The object of the game is complete all 3 stages without messing up, simple stuff.\n 
+	    If at any stage you muck up you drink and start from the beginning (A swig of beer will do or take a shot if you are insane!).\n 
+	</string>
+	<string name="instructions2">
+	    Simply guess RED or BLACK, if correct you will move to Stage 2. If not then drink!\n
+	</string>
+	<string name="instructions3">
+	    Guess whether the next card is HIGHER or LOWER than the current card. 2 is the lowest, Ace is the Highest.\n
+	     If correct you will move to Stage 3 otherwise you know what to do...\n
+	</string>
+	<string name="instructions4">
+	    The last stage requires you to decide if the next card is inside or outside the current card and the previous card.\n
+	    E.g Current - 5, Previous - Jack.\n IN would be 6,7,8,9,10. OUT would be 2,3,4,Q,K,A.\n
+	    You are allowed to call a DOUBLE at this point. A DOUBLE occurs when the next card is the same as the current card or the previous card. E.g Current - 5, Previous - Jack, next card out could be a 5 or Jack.\n
+	    Calling DOUBLE is a risky play but worth the glory when you pull it off. \n
+	    If you fail... drink heaps!, otherwise the dealer must consume half their vessel! Get uuup!!! \n
+	     If you guessed correctly you WIN! otherwise close but no cigar, start again.\n
+	     If you win you become the dealer and someone else becomes the drinker.\n
+	</string>
+	<string name="instructions5">
+	    The deck automatically reshuffles when all cards have been used so you can continue to get farked up!. \n
+	</string>
+	
+</resources>
