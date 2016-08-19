@@ -9,19 +9,169 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="717613af-6de3-4c80-8b08-1ac47a5ec07f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+    <list default="true" id="717613af-6de3-4c80-8b08-1ac47a5ec07f" name="Default" comment="Changed instruction strings">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/authorwjf/redorblack/test/BuildConfig.java" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\generated\source\buildConfig\androidTest\debug\com\delm959\redorblack\test\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\generated\source\buildConfig\release\com\delm959\redorblack\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\generated\source\r\release\com\delm959\redorblack\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 10.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 12.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 13.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 14.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 15.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 5.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\assets\release\Sound Effect 9.mp3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\Cards.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\HomePage$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\HomePage$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\HomePage$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\HomePage$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\HomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity$9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\Sounds.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\classes\release\com\delm959\redorblack\Transitions.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\dex\debug\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\dex\release\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\incremental\aidl\release\dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\incremental\mergeAssets\release\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\incremental\mergeResourcesrelease\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\manifests\full\release\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\pre-dexed\debug\classes-432361a31f0788b644ed1f16872b8ab00ada21f8.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-c716a7343024aa805d120c809692aaad22df0012.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-791c31cedbed6052c0237f96c8ae5b1588e727ea.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\pre-dexed\release\classes-432361a31f0788b644ed1f16872b8ab00ada21f8.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1-c716a7343024aa805d120c809692aaad22df0012.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1-791c31cedbed6052c0237f96c8ae5b1588e727ea.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\fade_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\fade_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\from_middle.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\scale_towards_corner.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\slide_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\slide_in_card.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\slide_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\slide_out_card.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\anim\to_middle.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c14.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\c9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\card_back3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d14.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\d9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h14.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\h9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\instructions.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\instructionsbg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\instructionsbg2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\instructionsoff.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\mybutton.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s14.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\s9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\smallcardback.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\soundoff.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\soundon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\start1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\trans1new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\trans1new2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\trans2new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\trans2new2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\transition.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-hdpi\transition2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\layout\home_page.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\layout\instructions.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\layout\popup_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\menu\main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\values-sw720dp-land\values-sw720dp-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\values-v11\values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\values-v14\values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\merged\release\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\res\resources-release.ap_" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\intermediates\symbols\release\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\outputs\apk\app-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\outputs\apk\app-debug.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\outputs\apk\app-release-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Warrick\Documents\RedOrBlack\app\build\outputs\logs\manifest-merger-release-report.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RedOrBlack.iws" />
@@ -56,16 +206,42 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#630#631#0" expanded="false" />
+                <element signature="e#649#650#0" expanded="false" />
+                <element signature="e#694#695#0" expanded="false" />
+                <element signature="e#719#720#0" expanded="false" />
+                <element signature="e#762#763#0" expanded="false" />
+                <element signature="e#789#790#0" expanded="false" />
+                <element signature="e#826#827#0" expanded="false" />
+                <element signature="e#860#861#0" expanded="false" />
+                <element signature="e#921#922#0" expanded="false" />
+                <element signature="e#962#963#0" expanded="false" />
+                <element signature="e#1011#1012#0" expanded="false" />
+                <element signature="e#1043#1044#0" expanded="false" />
+                <element signature="e#1092#1093#0" expanded="false" />
+                <element signature="e#1124#1125#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29344073">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.555555">
-              <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -84,23 +260,43 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6896553">
+            <state vertical-scroll-proportion="0.0">
               <caret line="223" column="31" selection-start-line="223" selection-start-column="31" selection-end-line="223" selection-end-column="31" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#3884#4400#0" expanded="false" />
+                <element signature="e#4399#4400#0" expanded="false" />
+                <element signature="e#4488#5133#0" expanded="false" />
+                <element signature="e#5132#5133#0" expanded="false" />
+                <element signature="e#5172#5687#0" expanded="false" />
+                <element signature="e#5686#5687#0" expanded="false" />
+                <element signature="e#5726#6242#0" expanded="false" />
+                <element signature="e#6241#6242#0" expanded="false" />
+                <element signature="e#13946#15549#0" expanded="false" />
+                <element signature="e#15548#15549#0" expanded="false" />
+                <element signature="e#16367#16617#0" expanded="false" />
+                <element signature="e#16616#16617#0" expanded="false" />
+                <element signature="e#16664#17256#0" expanded="false" />
+                <element signature="e#17255#17256#0" expanded="false" />
+                <element signature="e#17307#17580#0" expanded="false" />
+                <element signature="e#17579#17580#0" expanded="false" />
+                <element signature="e#17651#18115#0" expanded="false" />
+                <element signature="e#18114#18115#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64705884">
-              <caret line="95" column="47" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -109,7 +305,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#539#540#0" expanded="false" />
+                <element signature="e#575#576#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,7 +319,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#195#196#0" expanded="false" />
+                <element signature="e#219#220#0" expanded="false" />
+                <element signature="e#280#281#0" expanded="false" />
+                <element signature="e#315#316#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1558,11 +1763,12 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/HomePage.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/authorwjf/deal/Cards.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/delm959/deal/Cards.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -1606,28 +1812,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RedOrBlack" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RedOrBlack" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RedOrBlack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1808,6 +1992,28 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedOrBlack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedOrBlack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedOrBlack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1815,7 +2021,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="d18ce4d1" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_10_by_Google" />
     <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/signature.jks" />
     <property name="ExportApk.ApkPath" value="C:\Users\Warrick\Documents\RedOrBlack\app" />
@@ -2019,7 +2225,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1396" y="1" width="1807" height="1080" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2028,7 +2234,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32970807" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970807" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2036,8 +2242,7 @@
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2048,6 +2253,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2061,6 +2267,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed instruction strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed instruction strings" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -2069,8 +2279,128 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#630#631#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#694#695#0" expanded="false" />
+            <element signature="e#719#720#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#826#827#0" expanded="false" />
+            <element signature="e#860#861#0" expanded="false" />
+            <element signature="e#921#922#0" expanded="false" />
+            <element signature="e#962#963#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1043#1044#0" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1124#1125#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="223" column="31" selection-start-line="223" selection-start-column="31" selection-end-line="223" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3884#4400#0" expanded="false" />
+            <element signature="e#4399#4400#0" expanded="false" />
+            <element signature="e#4488#5133#0" expanded="false" />
+            <element signature="e#5132#5133#0" expanded="false" />
+            <element signature="e#5172#5687#0" expanded="false" />
+            <element signature="e#5686#5687#0" expanded="false" />
+            <element signature="e#5726#6242#0" expanded="false" />
+            <element signature="e#6241#6242#0" expanded="false" />
+            <element signature="e#13946#15549#0" expanded="false" />
+            <element signature="e#15548#15549#0" expanded="false" />
+            <element signature="e#16367#16617#0" expanded="false" />
+            <element signature="e#16616#16617#0" expanded="false" />
+            <element signature="e#16664#17256#0" expanded="false" />
+            <element signature="e#17255#17256#0" expanded="false" />
+            <element signature="e#17307#17580#0" expanded="false" />
+            <element signature="e#17579#17580#0" expanded="false" />
+            <element signature="e#17651#18115#0" expanded="false" />
+            <element signature="e#18114#18115#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Sounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#575#576#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Transitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#195#196#0" expanded="false" />
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#280#281#0" expanded="false" />
+            <element signature="e#315#316#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#630#631#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#694#695#0" expanded="false" />
+            <element signature="e#719#720#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#826#827#0" expanded="false" />
+            <element signature="e#860#861#0" expanded="false" />
+            <element signature="e#921#922#0" expanded="false" />
+            <element signature="e#962#963#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1043#1044#0" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1124#1125#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2102,19 +2432,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18973215">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Sounds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
+            <element signature="e#575#576#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2122,7 +2448,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#195#196#0" expanded="false" />
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#280#281#0" expanded="false" />
+            <element signature="e#315#316#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2131,19 +2462,27 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.555555">
-          <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/Cards.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#630#631#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#694#695#0" expanded="false" />
+            <element signature="e#719#720#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#826#827#0" expanded="false" />
+            <element signature="e#860#861#0" expanded="false" />
+            <element signature="e#921#922#0" expanded="false" />
+            <element signature="e#962#963#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1043#1044#0" expanded="false" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1124#1125#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2167,21 +2506,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/delm959/redorblack/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6896553">
+        <state vertical-scroll-proportion="0.0">
           <caret line="223" column="31" selection-start-line="223" selection-start-column="31" selection-end-line="223" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3884#4400#0" expanded="false" />
+            <element signature="e#4399#4400#0" expanded="false" />
+            <element signature="e#4488#5133#0" expanded="false" />
+            <element signature="e#5132#5133#0" expanded="false" />
+            <element signature="e#5172#5687#0" expanded="false" />
+            <element signature="e#5686#5687#0" expanded="false" />
+            <element signature="e#5726#6242#0" expanded="false" />
+            <element signature="e#6241#6242#0" expanded="false" />
+            <element signature="e#13946#15549#0" expanded="false" />
+            <element signature="e#15548#15549#0" expanded="false" />
+            <element signature="e#16367#16617#0" expanded="false" />
+            <element signature="e#16616#16617#0" expanded="false" />
+            <element signature="e#16664#17256#0" expanded="false" />
+            <element signature="e#17255#17256#0" expanded="false" />
+            <element signature="e#17307#17580#0" expanded="false" />
+            <element signature="e#17579#17580#0" expanded="false" />
+            <element signature="e#17651#18115#0" expanded="false" />
+            <element signature="e#18114#18115#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64705884">
-          <caret line="95" column="47" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21518987">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29344073">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

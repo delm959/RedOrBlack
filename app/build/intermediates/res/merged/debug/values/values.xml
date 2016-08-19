@@ -18,7 +18,7 @@
     <string name="cards_left">Cards\nleft</string>
     <string name="counter">counter</string>
     <string name="instructions">
-	    A 2 player drinking game where one person is the dealer and the other is the drinker.\n
+	    A simple 2 player drinking game where one person is the dealer and the other is the drinker.\n
 	    The object of the game is complete all 3 stages without messing up, simple stuff.\n 
 	    If at any stage you muck up you drink and start from the beginning (A swig of beer will do or take a shot if you\'re game!).\n
 	</string>
